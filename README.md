@@ -1,2 +1,1 @@
-# strider
-desafio strider
+# 
